@@ -1,3 +1,3 @@
 # hello-world
-learn basics
+learning basics
 Hello!
